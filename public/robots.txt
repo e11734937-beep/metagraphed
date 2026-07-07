@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://api.metagraph.sh/sitemap.xml

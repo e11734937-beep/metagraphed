@@ -1,9 +1,0 @@
-{
-  "schema_version": 1,
-  "id": "bitstarter",
-  "name": "Bitstarter",
-  "kind": "subnet-team",
-  "website_url": "https://bitstarter.ai/",
-  "authority": "official",
-  "notes": "Provider entry for Bitstarter SN91 public website and app surfaces. No verified source repository or machine-readable API schema has been found yet."
-}
